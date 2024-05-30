@@ -1,21 +1,21 @@
 {
   "development": {
     "username": "thuy2024",
-    "password": 1234567,
+    "password": "1234567",
     "database": "cake_shop",
     "host": "103.9.159.202",
     "dialect": "mysql"
   },
   "test": {
     "username": "thuy2024",
-    "password": 1234567,
+    "password": "1234567",
     "database": "database_test",
     "host": "103.9.159.202",
     "dialect": "mysql"
   },
   "production": {
     "username": "thuy2024",
-    "password": 1234567,
+    "password": "1234567",
     "database": "database_production",
     "host": "103.9.159.202",
     "dialect": "mysql"
