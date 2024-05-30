@@ -1,4 +1,4 @@
-import userServicer from "../services/userServicer";
+import userServicer from "../Service/userServicer";
 let userLogin = async (req, res) => {
   const email = req.body.email;
   const pass = req.body.pass;
